@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rohit Sharma",
+      "age": "35",
+      "email": "rohitsharma@xyz.com",
+      "dateOfBirth": "25-01-1990",
+      "address": "Pune",
+      "photo": "photo1"
+    },
+    {
+      "id": 3,
+      "name": "Virat kohli",
+      "age": 38,
+      "email": "kohli@xyz.com",
+      "dateOfBirth": "25-10-1996",
+      "address": "Delhi",
+      "photo": "photo3"
+    },
+    {
+      "id": 4,
+      "name": "Jasprit Bumrah",
+      "age": "31",
+      "email": "jaspritbumrah@xyz.com",
+      "dateOfBirth": "25-08-1993",
+      "address": "Bengaluru",
+      "photo": "photo4"
+    },
+    {
+      "name": "Ankit Ranjan",
+      "age": "67",
+      "email": "ankitranjan2504@gmail.com",
+      "address": "Rajendra Nagar",
+      "photo": "p1",
+      "dateOfBirth": "02-12-1989",
+      "id": 5
+    }
+  ]
+}
